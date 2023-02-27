@@ -1,0 +1,43 @@
+body{
+	background-image: url("https://i.pinimg.com/564x/8d/ab/93/8dab93784b72fee5f88f8e4e760ba478.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+form {
+	display: flex;
+	flex-direction: column;
+	max-width: 500px;
+	margin: 0 auto;
+  }
+  
+  label {
+	margin-bottom: 10px;
+	font-weight: bold;
+  }
+  
+  input, textarea {
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	margin-bottom: 20px;
+  }
+  
+  textarea {
+	resize: vertical;
+	height: 120px;
+  }
+  
+  button[type="submit"] {
+	background-color: #4CAF50;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+	background-color: #45a049;
+  }

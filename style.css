@@ -10,4 +10,27 @@
 .section1{
     display:flex;
     justify-content :space-around;
+    background-image: url("https://c1.wallpaperflare.com/preview/604/39/762/vintage-paper-retro-old-paper-paper-vintage.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.para
+{
+    display:flex;
+    justify-content :space-around;  
+}
+.section2{
+ 
+   
+    background-image: url("https://st.depositphotos.com/7335562/59740/i/450/depositphotos_597403978-stock-photo-blurry-natural-beige-color-bokeh.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.par{
+ display: flex;
 }
